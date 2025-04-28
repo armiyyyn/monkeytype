@@ -4,7 +4,7 @@
 
 ### Checks
 
-- [] Adding quotes?
+- [ ] Adding quotes?
   - [ ] Make sure to include translations for the quotes in the description (or another comment) so we can verify their content.
 - [ ] Adding a language or a theme?
   - [ ] If is a language, did you edit `_list.json`, `_groups.json` and add `languages.json`?
